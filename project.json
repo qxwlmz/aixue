@@ -1,0 +1,26 @@
+{
+  "assets": [],
+  "build": {
+    "build_id": "78660F54-108",
+    "build_number": 108,
+    "build_time": 1627298314247
+  },
+  "useFeatures": [],
+  "icon": "res/logo.png",
+  "launchConfig": {
+    "hideLogs": true,
+    "serviceDesc": "Auto Study Script App",
+    "splashText": "Power by Myue",
+    "stableMode": false
+  },
+  "main": "main.js",
+  "name": "AIXUE",
+  "packageName": "cc.myue.aixue",
+  "scripts": {},
+  "signingConfig": {
+    "alias": "myue",
+    "keystore": "/storage/emulated/0/脚本/.keyStore/myue.keystore"
+  },
+  "versionCode": 2,
+  "versionName": "2.3.1"
+}
