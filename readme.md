@@ -19,3 +19,14 @@
 
 - 发布`Issue`前检查你现在提出的`Issue`是否已经被提及，发布重复的`Issue`会让双方都降低效率。
 
+#### 更新日志
+-2021.08.08 v2.3.2 Release
+
+* 1.Update V2.3.2 Release
+* 2.修复`四人赛`新题型题目获取
+* 3.BugFix
+
+
+<div align="center">
+<img src="/uploads/images/20210808160557.jpg" height="30%" width ="50%" />
+</div>
