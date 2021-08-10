@@ -29,7 +29,7 @@
 * 4.BugFix
 
 <div align="center">
-<img src="/uploads/images/20210810204438.jpg" height="30%" width ="50%" />
+<img src="/uploads/images/20210810204438.png" height="30%" width ="50%" />
 </div>
 
 -2021.08.08 v2.3.2 Release
